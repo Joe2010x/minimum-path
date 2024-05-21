@@ -1,0 +1,14 @@
+/Users/joesun/piktiv/dailyCoding/minimal-path/bin/Debug/net8.0/minimal-path
+/Users/joesun/piktiv/dailyCoding/minimal-path/bin/Debug/net8.0/minimal-path.deps.json
+/Users/joesun/piktiv/dailyCoding/minimal-path/bin/Debug/net8.0/minimal-path.runtimeconfig.json
+/Users/joesun/piktiv/dailyCoding/minimal-path/bin/Debug/net8.0/minimal-path.dll
+/Users/joesun/piktiv/dailyCoding/minimal-path/bin/Debug/net8.0/minimal-path.pdb
+/Users/joesun/piktiv/dailyCoding/minimal-path/obj/Debug/net8.0/minimal-path.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joesun/piktiv/dailyCoding/minimal-path/obj/Debug/net8.0/minimal-path.AssemblyInfoInputs.cache
+/Users/joesun/piktiv/dailyCoding/minimal-path/obj/Debug/net8.0/minimal-path.AssemblyInfo.cs
+/Users/joesun/piktiv/dailyCoding/minimal-path/obj/Debug/net8.0/minimal-path.csproj.CoreCompileInputs.cache
+/Users/joesun/piktiv/dailyCoding/minimal-path/obj/Debug/net8.0/minimal-path.dll
+/Users/joesun/piktiv/dailyCoding/minimal-path/obj/Debug/net8.0/refint/minimal-path.dll
+/Users/joesun/piktiv/dailyCoding/minimal-path/obj/Debug/net8.0/minimal-path.pdb
+/Users/joesun/piktiv/dailyCoding/minimal-path/obj/Debug/net8.0/minimal-path.genruntimeconfig.cache
+/Users/joesun/piktiv/dailyCoding/minimal-path/obj/Debug/net8.0/ref/minimal-path.dll
